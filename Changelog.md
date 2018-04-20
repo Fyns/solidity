@@ -1,7 +1,7 @@
 ### 0.4.24 (unreleased)
 
 Features:
-
+ * Type Checker: Make literals (without explicit type casting) an error for tight packing as experimental 0.5.0 feature.
 
 Bugfixes:
 
